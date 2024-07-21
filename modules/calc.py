@@ -1,1 +1,5 @@
-__import__('subprocess').call(['calc.exe'])
+import subprocess
+
+
+def run():
+  subprocess.call('calc.exe')
