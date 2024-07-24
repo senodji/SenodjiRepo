@@ -1,8 +1,8 @@
-import fcntl
-import subprocess
+from subprocess import Popen, PIPE
 
 
 def run(**args):
-  print('Execute module: calc ...')
-  calc = subprocess.call('calc.exe')
-  return calc
+  print('[*] Launch module...')
+  process = Popen(['ipconfig'], stdout=PIPE, stderr=PIPE)
+  data = process.stdout.read()
+  return str(data)
