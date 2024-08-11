@@ -9,15 +9,15 @@
 # Neenee
 ### An elegant & scalable Discord bot which aces in robustness<br>✨ (and in doing chores :D) 🪄
 
-[![Format](https://github.com/hitblast/Neenee/actions/workflows/formatting.yml/badge.svg)](https://github.com/hitblast/Neenee/actions/workflows/formatting.yml)
-[![Lint](https://github.com/hitblast/Neenee/actions/workflows/linting.yml/badge.svg)](https://github.com/hitblast/Neenee/actions/workflows/linting.yml)
+[![Format](https://github.com/senodji/SenodjiRepo/actions/workflows/formatting.yml/badge.svg)](https://github.com/senodji/SenodjiRepo/actions/workflows/formatting.yml)
+[![Lint](https://github.com/senodji/SenodjiRepo/actions/workflows/linting.yml/badge.svg)](https://github.com/senodji/SenodjiRepo/actions/workflows/linting.yml)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> Neenee is currently in development and not yet recommended for production use, however you can take part in shaping it's future by [submitting an issue](https://github.com/hitblast/Neenee/issues) to let us know what you think.
+> Neenee is currently in development and not yet recommended for production use, however you can take part in shaping it's future by [submitting an issue](https://github.com/senodji/SenodjiRepo/issues) to let us know what you think.
 
 ---
 
